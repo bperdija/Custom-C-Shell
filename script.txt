@@ -1,0 +1,15 @@
+print Hello this is a test of built-in and non-built in commands. Test will begin now
+$var=Hello my name is...
+$test = test fail
+print $var world
+$var=pear
+print $var $apple
+theme green
+theme blue green
+ls -l
+lsl
+whoami
+echo Hello with echo
+pwd
+grep -V
+log
