@@ -3,8 +3,8 @@
 Hello!
 
 In this project, we have developed a command-line interpreter (or shell) which supports environment variables and history of executed commands. Our shell is capable of:
-- Recognizing lines of the form "$<VAR>=<value>"
-- Recognizing lines of the form <command> <arg0> <arg1> … <argN>, where <command> is a name of built-in command.
+- Recognizing lines of the form $\<VAR>=\<value>
+- Recognizing lines of the form \<command> \<arg0> \<arg1> … \<argN>, where \<command> is a name of built-in command.
 
 The following built-in commands are supported:
 - exit, the shell terminates on this Command
